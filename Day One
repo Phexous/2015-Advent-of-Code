@@ -1,0 +1,22 @@
+public class findElevatorFloor ()
+  {
+  
+  int Solution = 0;
+  
+    public void ()
+    {
+      String Input = Console.Readline();
+      
+      Console.Printline(Input.Length)
+      float length = Input.Length;
+      
+      while(length >= 0)
+      {
+      if (CharisLetter ("(")
+        Solution++
+      else
+        Solution--
+      }
+     
+    }
+  }
